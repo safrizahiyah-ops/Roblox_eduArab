@@ -1,0 +1,6 @@
+{
+  "name": "LingoBlox: 3D Language World",
+  "description": "Game 3D multiplayer bergaya low-poly untuk belajar kosakata Bahasa Arab dan Inggris secara interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
